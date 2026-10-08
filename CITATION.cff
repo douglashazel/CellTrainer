@@ -44,8 +44,8 @@ authors:
   - given-names: Michael
     family-names: Levin
     affiliation: "Allen Discovery Center at Tufts University; Wyss Institute for Biologically Inspired Engineering, Harvard University"
-repository-code: "https://github.com/douglashazel/closed-loop-cell-imaging"
-license-url: "https://github.com/douglashazel/closed-loop-cell-imaging/blob/main/LICENSE"
+repository-code: "https://github.com/douglashazel/CellTrainer"
+license-url: "https://github.com/douglashazel/CellTrainer/blob/main/LICENSE"
 keywords:
   - cell training
   - fluorescence microscopy
